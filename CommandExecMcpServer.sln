@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandExecMcpServer", "CommandExecMcpServer.csproj", "{11D76B27-E795-2C65-BCEB-C1D378CB4877}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11D76B27-E795-2C65-BCEB-C1D378CB4877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11D76B27-E795-2C65-BCEB-C1D378CB4877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11D76B27-E795-2C65-BCEB-C1D378CB4877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11D76B27-E795-2C65-BCEB-C1D378CB4877}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EB7B76A-B070-48CF-B0C1-63F4FB908356}
+	EndGlobalSection
+EndGlobal
